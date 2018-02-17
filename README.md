@@ -23,6 +23,8 @@ linklist for interesting videos,blogs,articels,...
 ### Podcasts:
  * [cppcast: podcast by C++ developers for C++ developers](https://cppcast.com/archives/)
 
+### Inspiration:
+* [1 Year of c++/SFML](https://www.youtube.com/watch?v=LrEvoKI07Ww)
 
 ## work enviroment related
  * [i3 windowmanager User's Guide ](https://i3wm.org/docs/userguide.html)
