@@ -14,7 +14,7 @@ linklist for interesting videos,blogs,articels,...
  * [Vittorio Romeo:
  Dive into C++11, part 1, a Arkanoid clone in 160~ lines of code](https://www.youtube.com/watch?v=_4K3tsKa1Uc)
 
-### Github-Repros(lists and tutotials):
+### Github-Repros(lists and tutorials):
  * [A collection of recources on modern C++](https://github.com/rigtorp/awesome-modern-cpp)
  * [Vittorio Romeo,C++11 and C++14 Tutorials](https://github.com/SuperV1234/Tutorials)
  
