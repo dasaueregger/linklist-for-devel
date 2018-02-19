@@ -16,6 +16,8 @@ linklist for interesting videos,blogs,articels,...
 
 ### Github-Repros(lists and tutotials):
  * [A collection of recources on modern C++](https://github.com/rigtorp/awesome-modern-cpp)
+ * [Vittorio Romeo,C++11 and C++14 Tutorials](https://github.com/SuperV1234/Tutorials)
+ 
 
 ### Blogs:
  * [Herb Sutter on software development](https://herbsutter.com/)
