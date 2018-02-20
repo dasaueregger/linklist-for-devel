@@ -9,12 +9,15 @@ linklist for interesting videos,blogs,articels,...
  * [cppreference.com/C++ Reference ](http://en.cppreference.com/w/cpp)
  * [C++ Core Guidelines ](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
  * [cpppatterns: patterns for modern c++](https://cpppatterns.com/)
+ 
+### Library:
+ * [SFML: Simple and Fast Multimedia Library](https://www.sfml-dev.org)
 
 ### Video(Tutorial Style):
  * [Vittorio Romeo:
  Dive into C++11, part 1, a Arkanoid clone in 160~ lines of code](https://www.youtube.com/watch?v=_4K3tsKa1Uc)
  
- ### Video(Youtube Channel):
+ ### Video(Youtube Channel,usw.):
  * [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos)
  * [CppConference](https://www.youtube.com/user/CppCon)
  * [C++ Now Conferenc](https://www.youtube.com/user/BoostCon/playlists)
