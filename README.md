@@ -13,6 +13,13 @@ linklist for interesting videos,blogs,articels,...
 ### Video(Tutorial Style):
  * [Vittorio Romeo:
  Dive into C++11, part 1, a Arkanoid clone in 160~ lines of code](https://www.youtube.com/watch?v=_4K3tsKa1Uc)
+ 
+ ### Video(Youtube Channel):
+ * [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos)
+ * [CppConference](https://www.youtube.com/user/CppCon)
+ * [C++ Now Conferenc](https://www.youtube.com/user/BoostCon/playlists)
+ * [Jason Turner,C++ Weekly](https://www.youtube.com/user/lefticus1)
+ 
 
 ### Github-Repros(lists and tutorials):
  * [A collection of recources on modern C++](https://github.com/rigtorp/awesome-modern-cpp)
@@ -29,5 +36,7 @@ linklist for interesting videos,blogs,articels,...
 * [1 Year of c++/SFML](https://www.youtube.com/watch?v=LrEvoKI07Ww)
 
 ## work enviroment related
- * [i3 windowmanager User's Guide ](https://i3wm.org/docs/userguide.html)
- 
+ * [i3 windowmanager User's Guide](https://i3wm.org/docs/userguide.html)
+
+## random
+ * [Linux Foundation Youtube Channel](https://www.youtube.com/user/TheLinuxFoundation/playlists)
