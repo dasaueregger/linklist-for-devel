@@ -10,6 +10,10 @@ linklist for interesting videos,blogs,articels,...
  * [C++ Core Guidelines ](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
  * [cpppatterns: patterns for modern c++](https://cpppatterns.com/)
  
+### Article:
+ * [Erasing Vector the Smart Way - Vlad Lazarenko](http://lazarenko.me/vector-erase/)
+
+ 
 ### Library:
  * [SFML: Simple and Fast Multimedia Library](https://www.sfml-dev.org)
 
