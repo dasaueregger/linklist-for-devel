@@ -38,8 +38,11 @@ linklist for interesting videos,blogs,articels,...
 ### Inspiration:
 * [1 Year of c++/SFML](https://www.youtube.com/watch?v=LrEvoKI07Ww)
 
+
 ## work enviroment related
  * [i3 windowmanager User's Guide](https://i3wm.org/docs/userguide.html)
 
 ## random
  * [Linux Foundation Youtube Channel](https://www.youtube.com/user/TheLinuxFoundation/playlists)
+ * [Gaffer on Games](https://gafferongames.com/)
+ 
