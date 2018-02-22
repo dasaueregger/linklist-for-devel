@@ -7,6 +7,7 @@ linklist for interesting videos,blogs,articels,...
 
 ### Reference:
  * [cppreference.com/C++ Reference ](http://en.cppreference.com/w/cpp)
+ * [Visual C++ Documentation ](https://docs.microsoft.com/en-us/cpp/#pivot=langlib&panel=langlib1)
  * [C++ Core Guidelines ](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
  * [cpppatterns: patterns for modern c++](https://cpppatterns.com/)
  
