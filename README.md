@@ -27,6 +27,7 @@ linklist for interesting videos,blogs,articels,...
  * [CppConference](https://www.youtube.com/user/CppCon)
  * [C++ Now Conferenc](https://www.youtube.com/user/BoostCon/playlists)
  * [Jason Turner,C++ Weekly](https://www.youtube.com/user/lefticus1)
+ * [Going Native Conferenc and Show - Paulo Portela](https://www.youtube.com/user/zafiragp/playlists)
  
 
 ### Github-Repros(lists and tutorials):
