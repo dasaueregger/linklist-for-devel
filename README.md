@@ -21,6 +21,7 @@ linklist for interesting videos,blogs,articels,...
 ### Video(Tutorial Style):
  * [Vittorio Romeo:
  Dive into C++11, part 1, a Arkanoid clone in 160~ lines of code](https://www.youtube.com/watch?v=_4K3tsKa1Uc)
+ * [Dive into C++11 - [2] - Frametime, FPS, constexpr, uniform initialization](https://www.youtube.com/watch?v=tPbrWAbzyTE)
  
  ### Video(Youtube Channel,usw.):
  * [Meeting Cpp](https://www.youtube.com/user/MeetingCPP/videos)
