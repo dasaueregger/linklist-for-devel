@@ -19,8 +19,7 @@ linklist for interesting videos,blogs,articels,...
  * [SFML: Simple and Fast Multimedia Library](https://www.sfml-dev.org)
 
 ### Video(Tutorial Style):
- * [Vittorio Romeo:
- Dive into C++11, part 1, a Arkanoid clone in 160~ lines of code](https://www.youtube.com/watch?v=_4K3tsKa1Uc)
+ * [Dive into C++11, part 1, a Arkanoid clone in 160~ lines of code](https://www.youtube.com/watch?v=_4K3tsKa1Uc)
  * [Dive into C++11 - [2] - Frametime, FPS, constexpr, uniform initialization](https://www.youtube.com/watch?v=tPbrWAbzyTE)
  
  ### Video(Youtube Channel,usw.):
