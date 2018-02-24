@@ -47,6 +47,7 @@ linklist for interesting videos,blogs,articels,...
 
 ## work enviroment related
  * [i3 windowmanager User's Guide](https://i3wm.org/docs/userguide.html)
+ * [MuPdf Manual and User Guide](https://www.mupdf.com/docs/manual-mupdf-gl.html)
 
 ## random
  * [Linux Foundation Youtube Channel](https://www.youtube.com/user/TheLinuxFoundation/playlists)
