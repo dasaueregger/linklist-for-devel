@@ -54,4 +54,10 @@ linklist for interesting videos,blogs,articels,...
 ## random
  * [Linux Foundation Youtube Channel](https://www.youtube.com/user/TheLinuxFoundation/playlists)
  * [Gaffer on Games](https://gafferongames.com/)
+ * [Top Coder](https://www.topcoder.com)
+ * [HackerRank](https://www.hackerrank.com/)
+ * [LeedCode](https://leetcode.com/)
+ * [GeeksforGeeks](https://geeksforgeeks.org/)
+ * [Codewars](https://www.codewars.com/)
+ * [Codeforces](https://codeforces.com/)
  
