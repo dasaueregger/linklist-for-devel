@@ -50,6 +50,17 @@ linklist for interesting videos,blogs,articels,...
  * [Vim tutorial from Daniel Miessler](https://danielmiessler.com/study/vim/)
  * [MuPdf Manual and User Guide](https://www.mupdf.com/docs/manual-mupdf-gl.html)
  
+## Game Programming
+ 
+### Articles and Tutorials:
+ * [Advanced Character Physics-Thomas Jakobsen](http://web.archive.org/web/20080410171619/http://www.teknikus.dk/tj/gdc2001.htm)
+ * [Rigid Body Dynamics-Chris Hecker](http://chrishecker.com/Rigid_Body_Dynamics)
+ * [Physically Based Modeling-Andrew Witkin and David Baraff](https://www.pixar.com/assets/pbm2001/index.html)
+ * [Rigid Body Dynamics-Chris Hecker](http://chrishecker.com/Rigid_Body_Dynamics)
+ 
+
+
+
 
 ## random
  * [Linux Foundation Youtube Channel](https://www.youtube.com/user/TheLinuxFoundation/playlists)
