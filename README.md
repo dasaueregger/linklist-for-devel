@@ -50,6 +50,7 @@ linklist for interesting videos,blogs,articels,...
 
 ### vim
  * [Vundle-Vim Plugin Manager](https://github.com/VundleVim/Vundle.Vim)
+ * [YouCompleteMe-Autocomplete Plugin for Vim](https://github.com/Valloric/YouCompleteMe)
  * [Vim tutorial from Daniel Miessler](https://danielmiessler.com/study/vim/)
 ### i3
  * [i3 windowmanager User's Guide](https://i3wm.org/docs/userguide.html)
