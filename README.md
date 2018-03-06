@@ -10,6 +10,7 @@ linklist for interesting videos,blogs,articels,...
  * [Visual C++ Documentation ](https://docs.microsoft.com/en-us/cpp/#pivot=langlib&panel=langlib1)
  * [C++ Core Guidelines ](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
  * [cpppatterns: patterns for modern c++](https://cpppatterns.com/)
+ * [Clang Compiler User’s Manual](http://clang.llvm.org/docs/UsersManual.html)
  
 ### Article:
  * [Erasing Vector the Smart Way - Vlad Lazarenko](http://lazarenko.me/vector-erase/)
