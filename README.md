@@ -47,9 +47,12 @@ linklist for interesting videos,blogs,articels,...
 
 
 ## work enviroment related
- * [i3 windowmanager User's Guide](https://i3wm.org/docs/userguide.html)
+
+### vim
+ * [Vundle-Vim Plugin Manager](https://github.com/VundleVim/Vundle.Vim)
  * [Vim tutorial from Daniel Miessler](https://danielmiessler.com/study/vim/)
- * [MuPdf Manual and User Guide](https://www.mupdf.com/docs/manual-mupdf-gl.html)
+### i3
+ * [i3 windowmanager User's Guide](https://i3wm.org/docs/userguide.html)
  
 ## Game Programming
  
@@ -58,14 +61,14 @@ linklist for interesting videos,blogs,articels,...
  * [Rigid Body Dynamics-Chris Hecker](http://chrishecker.com/Rigid_Body_Dynamics)
  * [Physically Based Modeling-Andrew Witkin and David Baraff](https://www.pixar.com/assets/pbm2001/index.html)
  * [Rigid Body Dynamics-Chris Hecker](http://chrishecker.com/Rigid_Body_Dynamics)
- 
+ * [Gaffer on Games](https://gafferongames.com/)
 
 
 
 
 ## random
  * [Linux Foundation Youtube Channel](https://www.youtube.com/user/TheLinuxFoundation/playlists)
- * [Gaffer on Games](https://gafferongames.com/)
+### Code Competition
  * [Top Coder](https://www.topcoder.com)
  * [HackerRank](https://www.hackerrank.com/)
  * [LeedCode](https://leetcode.com/)
