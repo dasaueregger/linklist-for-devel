@@ -12,6 +12,10 @@ linklist for interesting videos,blogs,articels,...
  * [cpppatterns: patterns for modern c++](https://cpppatterns.com/)
  * [Clang Compiler User’s Manual](http://clang.llvm.org/docs/UsersManual.html)
  
+### Coding Guidelines:
+ * [Modern C++ Coding Guidelines](https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md)
+ * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+ 
 ### Article:
  * [Erasing Vector the Smart Way - Vlad Lazarenko](http://lazarenko.me/vector-erase/)
 
