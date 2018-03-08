@@ -15,6 +15,7 @@ linklist for interesting videos,blogs,articels,...
 ### Coding Guidelines:
  * [Modern C++ Coding Guidelines](https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md)
  * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+ * [SEI CERT C++ Coding Standard](https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=88046682)
  
 ### Article:
  * [Erasing Vector the Smart Way - Vlad Lazarenko](http://lazarenko.me/vector-erase/)
