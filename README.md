@@ -59,6 +59,9 @@ linklist for interesting videos,blogs,articels,...
  * [Vim tutorial from Daniel Miessler](https://danielmiessler.com/study/vim/)
 ### i3
  * [i3 windowmanager User's Guide](https://i3wm.org/docs/userguide.html)
+
+### misc
+ *[Contemporary Linux Networking](https://www.slideshare.net/BarbarossaTM/contemporary-linux-networking)
  
 ## Game Programming
  
